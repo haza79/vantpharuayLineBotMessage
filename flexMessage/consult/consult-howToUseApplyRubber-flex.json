@@ -1,0 +1,228 @@
+{
+    "type": "bubble",
+    "size": "mega",
+    "body": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "md",
+        "contents": [{
+                "type": "text",
+                "text": "วิธีใช้จุลินทรีย์\nสูตรทาหน้ายางพารา",
+                "wrap": true,
+                "weight": "bold",
+                "gravity": "center",
+                "size": "xl"
+            },
+            {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [{
+                    "type": "text",
+                    "text": "เปิดฝาเกลียวด้านนอกให้เหลือฝาข้างใน เพื่อให้มีการระบายอากาศ และไหลเวียนอากาศ",
+                    "wrap": true,
+                    "margin": "md"
+                }],
+                "spacing": "none"
+            },
+            {
+                "type": "box",
+                "layout": "vertical",
+                "margin": "lg",
+                "spacing": "sm",
+                "contents": [{
+                        "type": "text",
+                        "text": "สัปดาห์ที่ 1",
+                        "size": "lg",
+                        "weight": "bold"
+                    },
+                    {
+                        "type": "box",
+                        "layout": "baseline",
+                        "spacing": "sm",
+                        "contents": [{
+                                "type": "text",
+                                "text": "#",
+                                "color": "#aaaaaa",
+                                "size": "sm",
+                                "flex": 1
+                            },
+                            {
+                                "type": "text",
+                                "wrap": true,
+                                "size": "sm",
+                                "color": "#666666",
+                                "flex": 10,
+                                "text": "เปิดแผลหน้ากรีด 1-2 รอบ"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "box",
+                        "layout": "baseline",
+                        "spacing": "sm",
+                        "contents": [{
+                                "type": "text",
+                                "text": "#",
+                                "color": "#aaaaaa",
+                                "size": "sm",
+                                "flex": 1
+                            },
+                            {
+                                "type": "text",
+                                "wrap": true,
+                                "size": "sm",
+                                "color": "#666666",
+                                "flex": 10,
+                                "text": "ใช้แปรงทาสี จุ่มทาให้ทั่วหน้ายาง ปัดแปรง ล่างขึ้นบน"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "box",
+                        "layout": "baseline",
+                        "spacing": "sm",
+                        "contents": [{
+                                "type": "text",
+                                "text": "#",
+                                "color": "#aaaaaa",
+                                "size": "sm",
+                                "flex": 1
+                            },
+                            {
+                                "type": "text",
+                                "wrap": true,
+                                "size": "sm",
+                                "color": "#666666",
+                                "flex": 10,
+                                "text": "เว้นระยะ 7 วัน/ครั้ง"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "box",
+                "layout": "vertical",
+                "margin": "lg",
+                "spacing": "sm",
+                "contents": [{
+                        "type": "text",
+                        "text": "สัปดาห์ที่ 2",
+                        "size": "lg",
+                        "weight": "bold"
+                    },
+                    {
+                        "type": "box",
+                        "layout": "baseline",
+                        "spacing": "sm",
+                        "contents": [{
+                                "type": "text",
+                                "text": "#",
+                                "color": "#aaaaaa",
+                                "size": "sm",
+                                "flex": 1
+                            },
+                            {
+                                "type": "text",
+                                "wrap": true,
+                                "size": "sm",
+                                "color": "#666666",
+                                "flex": 10,
+                                "text": "ทาครั้งที่ 2"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "box",
+                "layout": "vertical",
+                "margin": "lg",
+                "spacing": "sm",
+                "contents": [{
+                        "type": "text",
+                        "text": "สัปดาห์ที่ 3",
+                        "size": "lg",
+                        "weight": "bold"
+                    },
+                    {
+                        "type": "box",
+                        "layout": "baseline",
+                        "spacing": "sm",
+                        "contents": [{
+                                "type": "text",
+                                "text": "#",
+                                "color": "#aaaaaa",
+                                "size": "sm",
+                                "flex": 1
+                            },
+                            {
+                                "type": "text",
+                                "wrap": true,
+                                "size": "sm",
+                                "color": "#666666",
+                                "flex": 10,
+                                "text": "ทาครั้งที่ 3"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "box",
+                "layout": "vertical",
+                "margin": "lg",
+                "spacing": "sm",
+                "contents": [{
+                        "type": "text",
+                        "text": "สัปดาห์ที่ 4",
+                        "size": "lg",
+                        "weight": "bold"
+                    },
+                    {
+                        "type": "box",
+                        "layout": "baseline",
+                        "spacing": "sm",
+                        "contents": [{
+                                "type": "text",
+                                "text": "#",
+                                "color": "#aaaaaa",
+                                "size": "sm",
+                                "flex": 1
+                            },
+                            {
+                                "type": "text",
+                                "wrap": true,
+                                "size": "sm",
+                                "color": "#666666",
+                                "flex": 10,
+                                "text": "ทาครั้งที่ 4"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "box",
+                        "layout": "baseline",
+                        "spacing": "sm",
+                        "contents": [{
+                                "type": "text",
+                                "text": "#",
+                                "color": "#aaaaaa",
+                                "size": "sm",
+                                "flex": 1
+                            },
+                            {
+                                "type": "text",
+                                "wrap": true,
+                                "size": "sm",
+                                "color": "#666666",
+                                "flex": 10,
+                                "text": "หลังจาก 1 เดือนแรก\nทา 15-30 วัน/ครั้ง"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

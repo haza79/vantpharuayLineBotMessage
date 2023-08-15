@@ -1,0 +1,187 @@
+{
+    "type": "carousel",
+    "contents": [{
+            "type": "bubble",
+            "hero": {
+                "type": "image",
+                "size": "full",
+                "aspectRatio": "20:13",
+                "aspectMode": "cover",
+                "url": "https://vantpharuay.com/wp-content/uploads/2023/08/01_5_carousel-Recovered.jpg"
+            },
+            "body": {
+                "type": "box",
+                "layout": "vertical",
+                "spacing": "sm",
+                "contents": [{
+                        "type": "text",
+                        "text": "จุลินทรีย์ (ชนิดน้ำ)",
+                        "wrap": true,
+                        "weight": "bold",
+                        "size": "xl"
+                    },
+                    {
+                        "type": "text",
+                        "text": "สำหรับทาหน้ายางพารา",
+                        "wrap": true,
+                        "weight": "bold",
+                        "size": "lg"
+                    },
+                    {
+                        "type": "separator",
+                        "margin": "md"
+                    },
+                    {
+                        "type": "box",
+                        "layout": "baseline",
+                        "contents": [{
+                            "type": "text",
+                            "text": "1 ลิตร 350 บาท",
+                            "wrap": true,
+                            "weight": "bold",
+                            "size": "lg",
+                            "flex": 0,
+                            "margin": "none"
+                        }]
+                    }
+                ]
+            },
+            "footer": {
+                "type": "box",
+                "layout": "vertical",
+                "spacing": "sm",
+                "contents": [{
+                    "type": "button",
+                    "style": "primary",
+                    "action": {
+                        "type": "uri",
+                        "label": "ซื้อสินค้า",
+                        "uri": "https://shop.line.me/@852hzbnb/product/1004853507"
+                    }
+                }]
+            }
+        },
+        {
+            "type": "bubble",
+            "hero": {
+                "type": "image",
+                "size": "full",
+                "aspectRatio": "20:13",
+                "aspectMode": "cover",
+                "url": "https://vantpharuay.com/wp-content/uploads/2023/08/01_5_carousel.jpg"
+            },
+            "body": {
+                "type": "box",
+                "layout": "vertical",
+                "spacing": "sm",
+                "contents": [{
+                        "type": "text",
+                        "text": "จุลินทรีย์ (ชนิดผง)",
+                        "wrap": true,
+                        "weight": "bold",
+                        "size": "xl"
+                    },
+                    {
+                        "type": "text",
+                        "text": "สำหรับทาหน้ายางพารา",
+                        "wrap": true,
+                        "weight": "bold",
+                        "size": "lg"
+                    },
+                    {
+                        "type": "separator",
+                        "margin": "md"
+                    },
+                    {
+                        "type": "box",
+                        "layout": "baseline",
+                        "contents": [{
+                            "type": "text",
+                            "text": "200 กรัม 590 บาท",
+                            "wrap": true,
+                            "weight": "bold",
+                            "size": "lg",
+                            "flex": 0,
+                            "margin": "none"
+                        }]
+                    }
+                ]
+            },
+            "footer": {
+                "type": "box",
+                "layout": "vertical",
+                "spacing": "sm",
+                "contents": [{
+                    "type": "button",
+                    "style": "primary",
+                    "action": {
+                        "type": "uri",
+                        "label": "ซื้อสินค้า",
+                        "uri": "https://shop.line.me/@852hzbnb/product/1004853507"
+                    }
+                }]
+            }
+        },
+        {
+            "type": "bubble",
+            "hero": {
+                "type": "image",
+                "size": "full",
+                "aspectRatio": "20:13",
+                "aspectMode": "cover",
+                "url": "https://vantpharuay.com/wp-content/uploads/2023/08/01_5_carousel-Recovered-2.jpg"
+            },
+            "body": {
+                "type": "box",
+                "layout": "vertical",
+                "spacing": "sm",
+                "contents": [{
+                        "type": "text",
+                        "text": "จุลินทรีย์ (ชนิดผง)",
+                        "wrap": true,
+                        "weight": "bold",
+                        "size": "xl"
+                    },
+                    {
+                        "type": "text",
+                        "text": "สำหรับพืชผัก พืชไร่ สวนผลไม้ ",
+                        "wrap": true,
+                        "weight": "bold",
+                        "size": "lg"
+                    },
+                    {
+                        "type": "separator",
+                        "margin": "md"
+                    },
+                    {
+                        "type": "box",
+                        "layout": "baseline",
+                        "contents": [{
+                            "type": "text",
+                            "text": "200 กรัม 590 บาท",
+                            "wrap": true,
+                            "weight": "bold",
+                            "size": "lg",
+                            "flex": 0,
+                            "margin": "none"
+                        }]
+                    }
+                ]
+            },
+            "footer": {
+                "type": "box",
+                "layout": "vertical",
+                "spacing": "sm",
+                "contents": [{
+                    "type": "button",
+                    "style": "primary",
+                    "action": {
+                        "type": "uri",
+                        "label": "ซื้อสินค้า",
+                        "uri": "https://shop.line.me/@852hzbnb/product/1005141326"
+                    }
+                }]
+            }
+        }
+    ]
+}

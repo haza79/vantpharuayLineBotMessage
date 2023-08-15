@@ -1,0 +1,50 @@
+{
+    "type": "bubble",
+    "body": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "md",
+        "contents": [{
+                "type": "button",
+                "style": "primary",
+                "action": {
+                    "type": "postback",
+                    "label": "วิธีใช้ สูตรทาหน้ายางพารา",
+                    "data": "consult-howToUseApplyRubber"
+                },
+                "height": "sm"
+            },
+            {
+                "type": "button",
+                "style": "secondary",
+                "action": {
+                    "type": "postback",
+                    "label": "อัตราการผสม (ชนิดผง)",
+                    "data": "consult-mixingRate"
+                },
+                "height": "sm"
+            },
+            {
+                "type": "button",
+                "style": "primary",
+                "action": {
+                    "type": "postback",
+                    "label": "คุณสมบัติที่โดดเด่น",
+                    "data": "consult-qualification"
+                },
+                "height": "sm"
+            },
+            {
+                "type": "button",
+                "style": "link",
+                "action": {
+                    "type": "postback",
+                    "label": "ปรึกษาผู้เชี่ยวชาญโดยตรง",
+                    "data": "consult-expert"
+                },
+                "height": "sm",
+                "margin": "xl"
+            }
+        ]
+    }
+}
